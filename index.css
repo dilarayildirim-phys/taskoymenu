@@ -196,3 +196,35 @@ a.link-to-book:hover {
     }
 
 }
+/* Menü Genel Stilleri */
+.menu-title {
+  font-weight: 700;
+  letter-spacing: 2px;
+  color: #2c3e50;
+}
+
+.category-title {
+  font-size: 1.3rem;
+  color: #c9823e; /* Sıcak kahve tonu */
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  font-weight: 600;
+}
+
+.menu-item {
+  font-size: 1.05rem;
+}
+
+.item-name {
+  color: #333;
+}
+
+.item-price {
+  color: #111;
+  font-weight: 600;
+}
+
+/* Ürünler arasındaki kesikli çizgi */
+.border-bottom-dotted {
+  border-bottom: 1px dashed #e0e0e0;
+}
